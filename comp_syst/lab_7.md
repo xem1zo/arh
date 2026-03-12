@@ -97,7 +97,7 @@
 | **CPU PhotoWorx** | 17 256 МБ/с | 23 455 МБ/с (Core i7-5775C) | 17 343 МБ/с (Opteron 2378) |
 | **CPU ZLib** | 1 345 KRay/s | 2 653 KRay/s (Core i7-9900X) | 2 100 (Core i5-2300) |
 | **CPU AES** | 14 035 | 18 309 (Opteron 2431) | 15 291 (Xeon E5462) |
-| **CPU SHA3** | 587 МБ/с |  | 47 МБ/с |
+| **CPU SHA3** | 587 МБ/с | 10076 МБ/с | 47 МБ/с |
 | **FPU Julia** | 15 377 | 18 309 (Opteron 2431) | 12 246 (Core i7-9900X) |
 | **FPU Mandel** | 17 551 | 23 635 (Core i7-4770) | 17 256 (Opteron 2431) |
 | **FPU SinJulia** | 18 848 | 23 902 (Core i7-3770K) | 18 411 (Core i5-2300) |
