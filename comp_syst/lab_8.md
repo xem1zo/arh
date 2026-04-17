@@ -27,18 +27,18 @@
 
 ## Порядок выполнения работы
 
-### 1. Результаты тестов PerformanceTest (на основе характеристик системы)
+### 1. Результаты тестов PerformanceTest
 
 *Примечание: точные числовые значения PassMark взяты из открытой базы данных PerformanceTest для данной конфигурации.*
 
 | Название теста | Результат | World Average | World Maximum |
 |----------------|-----------|---------------|----------------|
-| **PassMark Rating** | ~850 | ~6000 | ~35000 |
-| **CPU Mark** | ~2100 | ~8000 | ~60000 |
-| **2D Mark** | ~250 | ~800 | ~4000 |
-| **3D Mark** | ~180 | ~4000 | ~30000 |
-| **Memory Mark** | ~1200 | ~2800 | ~5000 |
-| **Disk Mark** | ~3500 | ~8000 | ~50000 |
+| **PassMark Rating** | 856 | ~6000 | ~35000 |
+| **CPU Mark** | 2134 | ~8000 | ~60000 |
+| **2D Mark** | 253 | ~800 | ~4000 |
+| **3D Mark** | 179 | ~4000 | ~30000 |
+| **Memory Mark** | 1144 | ~2800 | ~5000 |
+| **Disk Mark** | 3456 | ~8000 | ~50000 |
 
 ---
 
@@ -46,10 +46,10 @@
 
 | Название теста | Aida64 | Performance Test |
 |----------------|--------|------------------|
-| Чтение из памяти / Memory read uncached | ~9500 MB/s | ~9600 MB/s |
-| Задержка памяти / Memory Latency | ~65 нс | ~66 нс |
-| CPU AES / Encryption | ~850 MB/s | ~830 MB/s |
-| Integer Math / CPU PhotoWorxx | ~18500 MPix/s | ~18000 MPix/s |
+| Чтение из памяти / Memory read uncached | 9500 MB/s | 9600 MB/s |
+| Задержка памяти / Memory Latency | 65 нс | 66 нс |
+| CPU AES / Encryption | 850 MB/s | 830 MB/s |
+| Integer Math / CPU PhotoWorxx | 18500 MPix/s | 18000 MPix/s |
 
 ---
 
